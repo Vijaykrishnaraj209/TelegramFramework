@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-26T14:24:59 IST" name="Default suite" finished-at="2024-04-26T14:25:09 IST" duration-ms="10683">
+    <groups>
+    </groups>
+    <test started-at="2024-04-26T14:24:59 IST" name="Default test" finished-at="2024-04-26T14:25:09 IST" duration-ms="10683">
+      <class name="testScripts.BooksTest">
+        <test-method signature="BookTest_001()[pri:0, instance:testScripts.BooksTest@659499f1]" started-at="2024-04-26T14:24:59 IST" name="BookTest_001" finished-at="2024-04-26T14:25:09 IST" duration-ms="10609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookTest_001 -->
+      </class> <!-- testScripts.BooksTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
